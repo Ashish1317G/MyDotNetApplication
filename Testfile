@@ -1,0 +1,20 @@
+# My DotNet Application
+
+This is a simple .NET web application created for learning and deploying on Microsoft Azure.
+
+## Features
+- Built using ASP.NET Core
+- Ready for Azure App Service deployment
+- Simple starter structure
+
+## How to Run Locally
+
+### Requirements
+- .NET SDK installed
+
+### Steps
+
+```bash
+dotnet restore
+dotnet build
+dotnet run
